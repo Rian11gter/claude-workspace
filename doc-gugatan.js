@@ -9,7 +9,8 @@ const D = JSON.parse(fs.readFileSync(__dirname + '/angka-ahli.json', 'utf8'));
 const FONT = 'Times New Roman', SZ = 24, W = 9354;
 const HEAD = 'D9D9D9', TOTL = 'E8E8E8';
 const NB = { style: BorderStyle.NONE, size: 0, color: 'FFFFFF' };
-const NO_BORDERS = { top: NB, bottom: NB, left: NB, right: NB };
+const NO_BORDERS = { top: NB, bottom: NB, left: NB, right: NB,
+                     insideHorizontal: NB, insideVertical: NB };
 
 const f  = n => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, '.');
 const rp = n => 'Rp' + f(n) + ',00';

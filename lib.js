@@ -7,7 +7,8 @@ const FONT = 'Times New Roman';
 const W = 9354;
 const HEAD = 'D9D9D9', SUB = 'F2F2F2', TOTL = 'E8E8E8', WARN = 'FFF2CC';
 const NB = { style: BorderStyle.NONE, size: 0, color: 'FFFFFF' };
-const NO_BORDERS = { top: NB, bottom: NB, left: NB, right: NB };
+const NO_BORDERS = { top: NB, bottom: NB, left: NB, right: NB,
+                     insideHorizontal: NB, insideVertical: NB };
 
 const f  = n => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, '.');
 const rp = n => 'Rp' + f(n);
