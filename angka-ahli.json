@@ -1,0 +1,365 @@
+{
+ "bobot": {
+  "1": 5.88,
+  "2": 14.1,
+  "3": 7.05,
+  "4": 10.45,
+  "5": 7.57,
+  "6": 4.7,
+  "7": 7.57,
+  "8": 4.7,
+  "9": 10.45,
+  "10": 5.22,
+  "11": 4.05,
+  "12": 6.4,
+  "13": 4.05,
+  "14": 7.81
+ },
+ "BOBOT_FISIK": 92.19,
+ "A": {
+  "label": "1 Mei 2026",
+  "rows": [
+   {
+    "no": 1,
+    "bobot": 5.88,
+    "real": 100,
+    "kontribusi": 5.88
+   },
+   {
+    "no": 2,
+    "bobot": 14.1,
+    "real": 100,
+    "kontribusi": 14.1
+   },
+   {
+    "no": 3,
+    "bobot": 7.05,
+    "real": 100,
+    "kontribusi": 7.05
+   },
+   {
+    "no": 4,
+    "bobot": 10.45,
+    "real": 0,
+    "kontribusi": 0
+   },
+   {
+    "no": 5,
+    "bobot": 7.57,
+    "real": 85,
+    "kontribusi": 6.43
+   },
+   {
+    "no": 6,
+    "bobot": 4.7,
+    "real": 80,
+    "kontribusi": 3.76
+   },
+   {
+    "no": 7,
+    "bobot": 7.57,
+    "real": 75,
+    "kontribusi": 5.68
+   },
+   {
+    "no": 8,
+    "bobot": 4.7,
+    "real": 90,
+    "kontribusi": 4.23
+   },
+   {
+    "no": 9,
+    "bobot": 10.45,
+    "real": 55,
+    "kontribusi": 5.75
+   },
+   {
+    "no": 10,
+    "bobot": 5.22,
+    "real": 45,
+    "kontribusi": 2.35
+   },
+   {
+    "no": 11,
+    "bobot": 4.05,
+    "real": 30,
+    "kontribusi": 1.22
+   },
+   {
+    "no": 12,
+    "bobot": 6.4,
+    "real": 50,
+    "kontribusi": 3.2
+   },
+   {
+    "no": 13,
+    "bobot": 4.05,
+    "real": 0,
+    "kontribusi": 0
+   }
+  ],
+  "fisik": 59.65,
+  "rasio": 0.647033300791843,
+  "it14": 5.05,
+  "total": 64.7,
+  "nilai": 549950000
+ },
+ "B": {
+  "label": "25 Juni 2026",
+  "rows": [
+   {
+    "no": 1,
+    "bobot": 5.88,
+    "real": 100,
+    "kontribusi": 5.88
+   },
+   {
+    "no": 2,
+    "bobot": 14.1,
+    "real": 100,
+    "kontribusi": 14.1
+   },
+   {
+    "no": 3,
+    "bobot": 7.05,
+    "real": 100,
+    "kontribusi": 7.05
+   },
+   {
+    "no": 4,
+    "bobot": 10.45,
+    "real": 0,
+    "kontribusi": 0
+   },
+   {
+    "no": 5,
+    "bobot": 7.57,
+    "real": 85,
+    "kontribusi": 6.43
+   },
+   {
+    "no": 6,
+    "bobot": 4.7,
+    "real": 85,
+    "kontribusi": 4
+   },
+   {
+    "no": 7,
+    "bobot": 7.57,
+    "real": 75,
+    "kontribusi": 5.68
+   },
+   {
+    "no": 8,
+    "bobot": 4.7,
+    "real": 90,
+    "kontribusi": 4.23
+   },
+   {
+    "no": 9,
+    "bobot": 10.45,
+    "real": 55,
+    "kontribusi": 5.75
+   },
+   {
+    "no": 10,
+    "bobot": 5.22,
+    "real": 60,
+    "kontribusi": 3.13
+   },
+   {
+    "no": 11,
+    "bobot": 4.05,
+    "real": 30,
+    "kontribusi": 1.22
+   },
+   {
+    "no": 12,
+    "bobot": 6.4,
+    "real": 55,
+    "kontribusi": 3.52
+   },
+   {
+    "no": 13,
+    "bobot": 4.05,
+    "real": 0,
+    "kontribusi": 0
+   }
+  ],
+  "fisik": 60.99,
+  "rasio": 0.6615684998372926,
+  "it14": 5.17,
+  "total": 66.16,
+  "nilai": 562360000
+ },
+ "SUB_DESAIN": 27850000,
+ "B_DESAIN": 3.64,
+ "B_SISA14": 4.17,
+ "ALT_TOTAL": 65.99,
+ "TANPA_4": 89.55,
+ "RATA_DIPERLUKAN": 94.9,
+ "MAKS_TEKNIS": 85.5,
+ "KERAMIK": [
+  [
+   "Bongkar keramik hitam terpasang",
+   100,
+   "m²",
+   45000,
+   4500000,
+   true
+  ],
+  [
+   "Angkut dan buang puing",
+   1,
+   "ls",
+   2000000,
+   2000000,
+   true
+  ],
+  [
+   "Perbaikan dan leveling screed",
+   100,
+   "m²",
+   35000,
+   3500000,
+   true
+  ],
+  [
+   "Pengadaan keramik cokelat 60x60 matte",
+   105,
+   "m²",
+   185000,
+   19425000,
+   false
+  ],
+  [
+   "Perekat dan grouting",
+   100,
+   "m²",
+   30000,
+   3000000,
+   false
+  ],
+  [
+   "Upah pemasangan keramik",
+   100,
+   "m²",
+   65000,
+   6500000,
+   false
+  ]
+ ],
+ "K_TOTAL": 38925000,
+ "K_INKREMENTAL": 10000000,
+ "K_LINGKUP": 28925000,
+ "SISA_PCT": 33.84,
+ "SISA_DPP": 259135135,
+ "SUB1": 269135135,
+ "ESKALASI": 32296216,
+ "JML_DPP": 301431351,
+ "JML_PPN": 33157449,
+ "TAKSIRAN": 334588800,
+ "DANA_SISA": 250000000,
+ "KEKURANGAN": 84588800,
+ "KELEBIHAN": 37640000,
+ "DENDA": 42500000,
+ "HARI_PLAFON": 50,
+ "C_INCL": 11100000,
+ "D_INCL": 35848800,
+ "GANTI": 127088800,
+ "KLAIM85": [
+  [
+   "Perubahan rancangan plafon",
+   "Item 5",
+   58000000
+  ],
+  [
+   "Penambahan titik dan fixture pencahayaan",
+   "Item 7",
+   58000000
+  ],
+  [
+   "Perubahan tata ruang dan perkerasan area luar",
+   "Item 11",
+   31000000
+  ],
+  [
+   "Penyesuaian desain dan gambar revisi",
+   "Item 14.2",
+   4500000
+  ]
+ ],
+ "KLAIM85_TOTAL": 151500000,
+ "ITEMS": [
+  [
+   1,
+   "Pembongkaran interior lama",
+   45000000
+  ],
+  [
+   2,
+   "Penyesuaian struktur bangunan",
+   108000000
+  ],
+  [
+   3,
+   "Pekerjaan dinding, plester dan finishing",
+   54000000
+  ],
+  [
+   4,
+   "Pekerjaan lantai dan keramik",
+   80000000
+  ],
+  [
+   5,
+   "Pekerjaan plafon",
+   58000000
+  ],
+  [
+   6,
+   "Pintu dan jendela",
+   36000000
+  ],
+  [
+   7,
+   "Instalasi listrik dan pencahayaan",
+   58000000
+  ],
+  [
+   8,
+   "Plumbing dan sanitasi",
+   36000000
+  ],
+  [
+   9,
+   "Kitchen dan bar",
+   80000000
+  ],
+  [
+   10,
+   "Pengecatan",
+   40000000
+  ],
+  [
+   11,
+   "Fasad dan area luar",
+   31000000
+  ],
+  [
+   12,
+   "Furniture/built-in",
+   49000000
+  ],
+  [
+   13,
+   "Finishing akhir dan pembersihan",
+   31000000
+  ],
+  [
+   14,
+   "Desain, engineering, mobilisasi, overhead dan manajemen proyek",
+   59765766
+  ]
+ ]
+}
